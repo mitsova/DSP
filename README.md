@@ -1,2 +1,2 @@
-# SDP
-Materials for SDP course @ FMI
+# DSP
+Materials for DSP course @ FMI
